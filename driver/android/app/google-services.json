@@ -1,0 +1,67 @@
+{
+  "project_info": {
+    "project_number": "1065274522382",
+    "project_id": "delivryz24",
+    "storage_bucket": "delivryz24.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1065274522382:android:349d1519a71378068cb55f",
+        "android_client_info": {
+          "package_name": "com.delivryz.cus"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCpxSm8e90OonYAyxGeKjDZMUz-IAsF32M"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1065274522382:android:286647b878db67b98cb55f",
+        "android_client_info": {
+          "package_name": "com.delivryz.dri"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCpxSm8e90OonYAyxGeKjDZMUz-IAsF32M"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1065274522382:android:77f2ceb4789107bc8cb55f",
+        "android_client_info": {
+          "package_name": "com.delivryz.ven"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCpxSm8e90OonYAyxGeKjDZMUz-IAsF32M"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

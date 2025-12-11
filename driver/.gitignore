@@ -1,0 +1,39 @@
+# Flutter & Dart
+.dart_tool/
+.packages
+.pub-cache/
+.pub/
+
+# Build output
+build/
+
+# Android
+android/.gradle/
+android/local.properties
+
+# iOS
+ios/Flutter/
+ios/Pods/
+
+# macOS
+macos/Flutter/
+macos/Pods/
+
+# Windows
+windows/flutter/
+windows/build/
+
+# Linux
+linux/flutter/
+linux/build/
+
+# Web
+web/generated_plugin_registrant.dart
+
+# IDE / Editor
+.idea/
+.vscode/
+*.iml
+
+# System files
+.DS_Store
